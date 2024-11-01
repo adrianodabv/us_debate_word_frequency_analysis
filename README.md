@@ -17,8 +17,10 @@ Install the required Python libraries using:
 pip install pandas scikit-learn matplotlib
 
 **File Structure
+
 Output Images: The script saves two images of the top bigrams for each speaker in the format Kamala_Harris_top_5_bigrams.png and Donald_Trump_top_5_bigrams.png.
-Usage
+
+**Usage
 
 Place the transcript CSV file in the same directory as the script.
 
